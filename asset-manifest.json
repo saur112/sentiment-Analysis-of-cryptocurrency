@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/News_site/static/css/main.073c9b0a.css",
-    "main.js": "/News_site/static/js/main.99f2e14a.js",
-    "static/js/787.4c026eef.chunk.js": "/News_site/static/js/787.4c026eef.chunk.js",
-    "static/media/Iphone-spinner-2.gif": "/News_site/static/media/Iphone-spinner-2.d3fbaf2b81fd92c49692.gif",
-    "index.html": "/News_site/index.html",
-    "main.073c9b0a.css.map": "/News_site/static/css/main.073c9b0a.css.map",
-    "main.99f2e14a.js.map": "/News_site/static/js/main.99f2e14a.js.map",
-    "787.4c026eef.chunk.js.map": "/News_site/static/js/787.4c026eef.chunk.js.map"
+    "main.css": "/News/static/css/main.073c9b0a.css",
+    "main.js": "/News/static/js/main.10712ca9.js",
+    "static/js/787.4c026eef.chunk.js": "/News/static/js/787.4c026eef.chunk.js",
+    "static/media/Iphone-spinner-2.gif": "/News/static/media/Iphone-spinner-2.d3fbaf2b81fd92c49692.gif",
+    "index.html": "/News/index.html",
+    "main.073c9b0a.css.map": "/News/static/css/main.073c9b0a.css.map",
+    "main.10712ca9.js.map": "/News/static/js/main.10712ca9.js.map",
+    "787.4c026eef.chunk.js.map": "/News/static/js/787.4c026eef.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.99f2e14a.js"
+    "static/js/main.10712ca9.js"
   ]
 }
